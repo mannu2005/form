@@ -1,0 +1,122 @@
+.box{
+    background-image: url("../assist/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.avif");
+    background-size: cover;
+    padding-bottom: 100px;
+}
+h1{
+    padding-top: 100px;
+}
+input{
+    width: 50vh;
+    font-size: 25px;
+}
+.box1{
+    font-size: 18px;
+    outline: none; 
+    border: none;
+    background: none;
+    border-bottom: 3px solid rgb(125, 246, 19);
+    padding-left: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    color: #fff;
+    padding-top: 50px;
+}
+.btn1{
+    margin-top: 70px;
+    outline: none; 
+    border: none;
+    background-color: rgb(95, 14, 236);
+    font-size: 20px;
+    color: antiquewhite;
+}
+.btn1:hover{
+    background-color:#cc6ca4;
+    color: rgba(255, 235, 205, 0.795);
+}
+h3{
+    padding-left: 130px;
+}
+.p1{
+    padding-left: 130px;
+}
+.a1{
+    padding-right: 130px;
+}
+@media (min-width:1200px) and (max-width:1250px){
+    h3{
+        padding-left: 90px;
+    }
+    .p1{
+        padding-left: 90px;
+    }
+    .a1{
+        padding-right: 90px;
+    }
+}
+@media (min-width:988px) and (max-width:1200px){
+    h3{
+        padding-left: 60px;
+    }
+    .p1{
+        padding-left: 60px;
+    }
+    .a1{
+        padding-right: 60px;
+    }
+}
+@media (min-width:766px) and (max-width:988px){
+    h3{
+        padding-left: 0px;
+    }
+    .p1{
+        padding-left: 0px;
+    }
+    .a1{
+        padding-right: 0px;
+    }
+}
+@media (min-width:547px) and (max-width:766px){
+    h3{
+        padding-left: 90px;
+    }
+    .p1{
+        padding-left: 90px;
+    }
+    .a1{
+        padding-right: 90px;
+    }
+}
+@media (min-width:421px) and (max-width:547px){
+    h3{
+        padding-left: 50px;
+    }
+    .p1{
+        padding-left: 50px;
+    }
+    .a1{
+        padding-right: 50px;
+    }
+}
+@media (min-width:300px) and (max-width:420px){
+    h3{
+        padding-left: 0px;
+    }
+    .p1{
+        padding-left: 0px;
+    }
+    .a1{
+        padding-right: 0px;
+    }
+}
+@media (max-width:300px){
+    h3{
+        padding-left: 0px;
+    }
+    .p1{
+        padding-left: 0px;
+    }
+    .a1{
+        padding-right: 0px;
+    }
+}
